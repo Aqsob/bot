@@ -1,4 +1,4 @@
-/ Impor modul dan dependensi yang diperlukan
+// Impor modul dan dependensi yang diperlukan
 const {
     monospace,
     italic,
