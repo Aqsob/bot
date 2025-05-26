@@ -72,15 +72,15 @@ global.config = {
 
     // Informasi owner bot
     owner: {
-        name: "", // Nama owner bot
-        organization: "", // Nama organisasi owner bot
-        id: "", // Nomor telepon owner bot
-        co: [""] // Nomor co-owner bot
+        name: "33333 ☠️", // Nama owner bot
+        organization: "KTL", // Nama organisasi owner bot
+        id: "6285656715298", // Nomor telepon owner bot
+        co: ["6285656715298"] // Nomor co-owner bot
     },
 
     // Stiker bot
     sticker: {
-        packname: "", // Nama paket stiker
+        packname: "33334", // Nama paket stiker
         author: "333333 <sukianjirt>" // Pembuat stiker
     },
 
